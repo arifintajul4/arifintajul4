@@ -10,7 +10,7 @@ Currently I am open to any opportunity especially in IT as a Web Developer.
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on my personal website </br>
+    - 🔭 I’m currently working on my personal website, you can check <a href="http://tajoel.me">My Website</a> </br>
     - 🌱 I’m currently learning Javascript especially ES6 </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:arifintajul4@gmail.com">Email me!</a>  </br>
