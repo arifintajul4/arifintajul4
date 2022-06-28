@@ -10,8 +10,8 @@ Currently I am open to any opportunity especially in IT as a Web Developer.
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on my personal website, you can check <a href="http://tajul.my.id" target="_blank">My Website</a> </br>
-    - 🌱 I’m currently learning Javascript, especially ES6 </br>
+    - 🔭 I’m currently working in <a href="http://enablr.id" target="_blank">enablr.id</a> as Front End Engginer</br>
+    - 🌱 I’m currently learning Flutter</br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:arifintajul4@gmail.com">Email me!</a>  </br>
 </details>
