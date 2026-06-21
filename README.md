@@ -23,7 +23,7 @@ Currently I am open to any opportunity especially in IT as a Web Developer.
 
 ### Let's connect!
 <p>
-    <a href="https://tajul.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-https://tajoel.my.id-green?" /></a>
+    <a href="https://tajul.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-https://tajul.my.id-green?" /></a>
     <a href="https://www.linkedin.com/in/arifintajul4" target="_blank"><img src="https://img.shields.io/badge/Tajul_Arifin_S-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://https://twitter.com/yaelahjul4" target="_blank"><img src="https://img.shields.io/badge/@yaelahjul4-30302f?style=flat&logo=twitter" /></a>
     <a href="https://www.instagram.com/tajul_arifins" target="_blank"><img src="https://img.shields.io/badge/@tajul__arifins-30302f?style=flat&logo=instagram" /></a>
